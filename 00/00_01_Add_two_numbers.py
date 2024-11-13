@@ -14,7 +14,7 @@ Print the total sum with an appropriate message."""
 
 #Solution 
 def main():
-    print("We are going to add two numbers")
+    print("We are going to add two numbers!")
 num1: str = input("Enter your first Number: ")
 num1 : int = int(num1)
 num2: str = input("Enter your second Number: ")
